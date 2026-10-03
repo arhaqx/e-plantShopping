@@ -115,20 +115,6 @@ e-plantShopping/
 
 ---
 
-## 📝 Assessment Submission Reference
-
-| Task | File Path | Description |
-| :--- | :--- | :--- |
-| **Task 1** | `README.md` | Project overview, features, setup guide, and technologies used |
-| **Task 2** | `src/AboutUs.jsx` | Company details, mission, and background information |
-| **Task 3** | `src/App.css` | Landing page styling and background image implementation |
-| **Task 4** | `src/App.jsx` | Landing page with company title, tagline, and Get Started button |
-| **Task 5** | `src/CartSlice.jsx` | Redux slice managing cart items with `addItem`, `removeItem`, `updateQuantity` |
-| **Task 6** | `src/ProductList.jsx` | Grouped plants catalog, dynamic navbar, dynamic cart badge, add-to-cart |
-| **Task 7** | `src/CartItem.jsx` | Shopping cart with total amounts, item subtotals, quantity adjustments, checkout |
-
----
-
 ## 👤 Author
 
 - **GitHub**: [@arhaqx](https://github.com/arhaqx)
